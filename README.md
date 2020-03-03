@@ -14,5 +14,6 @@ There are some bugs and inefficiencies in my code but a Zip of the unity project
 The paddle was from the Unity Asset Store by "TheCloudCreator"
 The base for the project was from https://github.com/mozilla/unity-webvr-export
 
-This game has only been tested with an Oculus Quest as it's the only headset I own.
-Feedback is welcome but remember that I'm a novice here so please be kind.
+This game has only been tested with an Oculus Quest. It runs via Quest Link and Firefox but doesn't run correctly when using the native Quest Browser (I will look into this but your results may vary.) Even with the Quest Link, the latest drivers seem to have broken all audio.
+
+More information will be available as the project progresses.
