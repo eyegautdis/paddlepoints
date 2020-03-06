@@ -3,6 +3,8 @@ A WebVr Paddle Ball Experience
 
 PaddlePoints is a WebVR experience created in Unity for WebGL/HTML5.
 
+https://eyegautdis.github.io/paddlepoints
+
 The after grabbing the paddle and touching the Start button, randomly selected Blue or Red balls will fire at the player.
 There are 1 and 3 point goals corresponding to the color of the ball. Hitting a ball into the incorrect goal or out-of-bounds will result in a deduction of points instead of a gain.
 
